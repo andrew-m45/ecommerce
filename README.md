@@ -1,2 +1,2 @@
 # Ecommerce
-Vue ecommerce app
+Vue ecommerce full stack app
